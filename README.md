@@ -4,12 +4,12 @@ A self-paced staff training from People, Culture and Belonging, built from
 the *Free Expression at Vanderbilt: Draft Outline* (proposed PCB online staff
 training). Six lessons, about twenty minutes, one idea per page, with a
 Listen button on every page. Built on the **Vanderbilt Voyage Online** engine
-(`me5231979/Voyage_Online`) in the Vanderbilt brand, so it looks and behaves
+(`FuturesLearningHub/Voyage_Online`) in the Vanderbilt brand, so it looks and behaves
 like Voyage.
 
 ## Live site
 
-https://me5231979.github.io/Free_Expression/ (GitHub Pages, served from the
+https://futureslearninghub.github.io/Free_Expression/ (GitHub Pages, served from the
 `gh-pages` branch, a mirror of `main`). Publish with
 `git branch -f gh-pages main && git push -f origin gh-pages`.
 
